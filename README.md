@@ -1,60 +1,72 @@
-## THE RAINBOW TEXT EDITOR 🌈 ⌨️ 🖱️##
+## THE RAINBOW TEXT EDITOR  ⌨️🌈🖱️
 
-# Table of Contents
-Description
-Table of Contents
-Installation
-Usage
-Deployed Link
-Screen Shots
-Tech Stack
-Sources
-Questions
+![License](https://img.shields.io/badge/License-MIT-blue)
+
+## Table of Contents
+* [Description](##Description)
+* [Installation](##Installation)
+* [Usage](##Usage)
+* [Deployed Link](##DeployedLink)
+* [Screenshot](#Screenshot)
+* [Tech Stack](#TechStack)
+* [Credits](#Credits)
+* [Questions](#Questions)
+* [Copyright](#Copyright)
+
 
 # Description
-This application showcases 'Progressive Web Applications' - Progressive Web Apps (PWAs) are web apps that use service workers, manifests, and other web-platform features in combination with progressive enhancement to give users an experience on par with native apps.
+This application showcases Progressive Web Apps (PWAs) - web applications that use service workers, manifests, and other web-platform features in combination with progressive enhancement to give users an experience on par with native apps.
 
-This application takes an existing text editor app and adds functionality for it to work as a PWA and function offline. This application is deployed through Heroku.
+This snazzy text editor is a single-page application that will run in the browser. It features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. This application can function offline. It features a number of methods that are useful for storing and retrieving data, and is used by companies like Google and Mozilla.
+
 
 # Installation
-git clone the repo to your local machine. To use this application, run the following command to install the dependencies:
+- `Git clone` the repository to your local machine. 
 
- npm install
-Then run the following command:
+- To use this application, run the following command to install the dependencies:
 
-npm run start:dev
+
+ `npm install`
+
+- Then run the following command:
+
+`npm run start:dev`
+
 
 # Usage
 Type the following command in your termimal:
 
-npm run start
+`npm run start`
 
 Open the browser on the specified localhost URL to run this application on your local machine. You can also install the program onto your desktop for offline use.
 
-# Deployed Link
+## DeployedLink
+This application is deployed through Heroku. 
 The link to the deployed application is: https://herokuapp.com/
 
-# Screenshots
+## Screenshot
+
+![alt text](https://github.com/hergemony/png...?raw=true)
 
 
+## TechStack
+- HTML
+- CSS
+- Javascript
+- NodeJS
+- ExpressJS
+- MongoDB
 
-
-# Tech Stack
-HTML
-CSS
-Javascript
-NodeJS
-ExpressJS
-MongoDB
-
-# Sources
+## Credits
 https://developer.mozilla.org/en-US/docs/Web/Progressive_web_apps
 
 
 
-# Questions
+## Questions
 Any questions, please email me at hergemony@gmail.com
 
 
-
+## Copyright
 ©️ 2022 Hergemony™️ Digital Services
+
+**[◀️ back to top](#description)**
